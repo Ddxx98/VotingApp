@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #dfe6e9, #a29bfe);
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+}
+
+.app-container {
+  max-width: 850px;
+  margin: 50px auto;
+  padding: 40px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+h1 {
+  font-size: 2.8rem;
+  text-align: center;
+  color: #6c5ce7;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.4rem;
+  text-align: center;
+  color: #00cec9;
+  margin-bottom: 30px;
+}
